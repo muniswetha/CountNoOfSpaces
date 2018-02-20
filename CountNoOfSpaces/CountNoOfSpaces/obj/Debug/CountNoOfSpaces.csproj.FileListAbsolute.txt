@@ -1,0 +1,6 @@
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\bin\Debug\CountNoOfSpaces.exe.config
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\bin\Debug\CountNoOfSpaces.exe
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\bin\Debug\CountNoOfSpaces.pdb
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\obj\Debug\CountNoOfSpaces.csprojResolveAssemblyReference.cache
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\obj\Debug\CountNoOfSpaces.exe
+E:\ProgrammingExersices\Exersise50\CountNoOfSpaces\CountNoOfSpaces\obj\Debug\CountNoOfSpaces.pdb
